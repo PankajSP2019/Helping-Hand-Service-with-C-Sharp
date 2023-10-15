@@ -1,0 +1,157 @@
+C:\Users\Mehedi\source\repos\Form1\bin\Debug\Form1.exe.config
+C:\Users\Mehedi\source\repos\Form1\bin\Debug\Form1.exe
+C:\Users\Mehedi\source\repos\Form1\bin\Debug\Form1.pdb
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.Login.resources
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.exe
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.pdb
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\Mehedi\source\repos\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\bin\Debug\Form1.exe.config
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\bin\Debug\Form1.exe
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\bin\Debug\Form1.pdb
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.exe
+C:\Users\ASUS\Downloads\Compressed\Form1 1\Form1\obj\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\Form1 1\Form1\bin\Debug\Form1.exe.config
+C:\Users\ASUS\Desktop\Form1 1\Form1\bin\Debug\Form1.exe
+C:\Users\ASUS\Desktop\Form1 1\Form1\bin\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.exe
+C:\Users\ASUS\Desktop\Form1 1\Form1\obj\Debug\Form1.pdb
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\bin\Debug\Form1.exe.config
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\bin\Debug\Form1.exe
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\bin\Debug\Form1.pdb
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.Mainform.resources
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.Splash.resources
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.Login.resources
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.Properties.Resources.resources
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.Users.resources
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.exe
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.pdb
+E:\7th semester\Practice file for all subject\oop2\parmanantly delete\Form1 1\Form1\obj\Debug\Form1.OurService.resources
+C:\Users\ASUS\Downloads\Form1\bin\Debug\Form1.exe.config
+C:\Users\ASUS\Downloads\Form1\bin\Debug\Form1.exe
+C:\Users\ASUS\Downloads\Form1\bin\Debug\Form1.pdb
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.OurService.resources
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.Login.resources
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.exe
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.pdb
+C:\Users\ASUS\Downloads\Form1\obj\Debug\Form1.Customer.resources
+C:\Users\ASUS\Desktop\Form1\bin\Debug\Form1.exe.config
+C:\Users\ASUS\Desktop\Form1\bin\Debug\Form1.exe
+C:\Users\ASUS\Desktop\Form1\bin\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.Customer.resources
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.OurService.resources
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.Login.resources
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.exe
+C:\Users\ASUS\Desktop\Form1\obj\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.CashBookInfo.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.Customer.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.OurService.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\form 1 new\Form1\Form1\obj\Debug\Form1.Return.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.CashBookInfo.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.Customer.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.OurService.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.Return.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.Users.resources
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Mehedi\Desktop\assinment\oop2 4 hour\form 1 new\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.CashBookInfo.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.Customer.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.OurService.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.Return.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.UserView.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.ServiceUserView.resources
+C:\Users\ASUS\Desktop\form 1 final\Form1\Form1\obj\Debug\Form1.CreateUserAccount.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.CashBookInfo.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.CreateUserAccount.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.Customer.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.Mainform.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.OurService.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.Return.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.ServiceUserView.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.Splash.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.Login.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.Users.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.UserView.resources
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\ASUS\Desktop\Project(Helping Hand)\Form1\Form1\obj\Debug\Form1.pdb
